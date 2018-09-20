@@ -1,0 +1,3 @@
+[submodule "plaid-origin"]
+	path = plaid-origin
+	url = https://github.com/nickbutcher/plaid
